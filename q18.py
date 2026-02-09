@@ -1,3 +1,4 @@
+#simple calculator
 b=(float(input("enter your number")))
 a=(float(input("enter your number")))
 
@@ -11,4 +12,5 @@ elif operation=='*':
 elif operation=='/':
     print(a/b)
 else:
+
     print('pls enter your number')
